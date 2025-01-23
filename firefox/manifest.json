@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Resumão",
+  "version": "1.0",
+  "description": "Redireciona vídeos do YouTube para o Resumão.",
+
+  "permissions": ["activeTab"],
+
+  "icons": {
+    "48": "icon.png"
+  },
+
+  "browser_action": {
+    "default_title": "Clique para obter o resumão!"
+  },
+  "background": {
+    "scripts": ["resumao.js"]
+  }
+}
