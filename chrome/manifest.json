@@ -11,7 +11,7 @@
   },
 
   "background": {
-    "service_worker": "../resumao.js"
+    "service_worker": "resumao.js"
   },
   "action": {
     "default_title": "Clique para obter o resumão!"
