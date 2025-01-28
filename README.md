@@ -11,7 +11,7 @@
 
 ## Contribuições
 
-Contribuições, sugestões ou melhorias são sempre bem-vindas! Sinta-se à vontade para abrir uma [[issue](https://github.com/felipos/resumao-extension/issues) ou enviar um pull request no repositório
+Contribuições, sugestões ou melhorias são sempre bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/felipos/resumao-extension/issues) ou enviar um pull request no repositório
 
 ## Licença
 
